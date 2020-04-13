@@ -1,0 +1,19 @@
+{
+  "name": "manifests-validator",
+  "version": "1.0.0",
+  "description": "TO VALIDATE TOC, RCF AND SPOTON MANIFESTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitshelar/manifests-validator.git"
+  },
+  "author": "Ankit Shelar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitshelar/manifests-validator/issues"
+  },
+  "homepage": "https://github.com/ankitshelar/manifests-validator#readme"
+}
