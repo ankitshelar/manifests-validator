@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ankitshelar/manifests-validator/issues"
   },
-  "homepage": "https://github.com/ankitshelar/manifests-validator#readme"
+  "homepage": "https://github.com/ankitshelar/manifests-validator#readme",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
 }
