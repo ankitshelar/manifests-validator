@@ -1,0 +1,2 @@
+# manifests-validator
+TO VALIDATE TOC, RCF, SPOTON MANIFESTS
